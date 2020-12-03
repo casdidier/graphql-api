@@ -1,0 +1,7 @@
+{
+  "env": {
+      "MONGO_USER": "dicas",
+      "MONGO_PASSWORD": "Ww0qjqzkgODsOKG8",
+      "MONGO_DB": "graphql-api-blog-database"
+  }
+}
