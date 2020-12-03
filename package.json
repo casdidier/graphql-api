@@ -1,0 +1,17 @@
+{
+  "name": "apollo-graphql-express-mongoose-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "graphql": "^15.4.0",
+    "mongoose": "^5.11.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
