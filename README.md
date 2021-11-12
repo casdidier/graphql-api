@@ -1,5 +1,8 @@
 # graphql-api
 
+# Stack
+GRAPHQL MongoDB Express
+
 ## Getting started
 `yarn start
 
